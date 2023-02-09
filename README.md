@@ -4,7 +4,6 @@ In this Jupyter notebook, we will derive the macroscopic properties of a droplet
 Click [here] to view the html version of the jupyter notebook.
 
 Dependencies:
-- ffmpeg (for producing animation)
 - numpy
 - matplotlib
 
